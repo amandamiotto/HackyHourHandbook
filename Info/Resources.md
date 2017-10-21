@@ -7,7 +7,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 
 
 |Topic| Name | URL|  Description |Free for AU/NZ| Free for All|
-|--------------|----------------------|----------------------------------------------|----------------------------------------|------|-----|
+|--------------|----------------------|-----------------------------|----------------------------------------|------|-----|
 |Collaborative tools| Atom Text Editor| https://atom.io/| A collaborative text editor, customizable|Yes|Yes
 |Data Science Learning|Becoming a Data Scientist Curriculum|http://nirvacana.com/thoughts/becoming-a-data-scientist/| A visual roadmap for skills to build in data science|Yes|Yes|
 |Ecology|Global Biodiversity Information Facility| https://www.gbif.org/|Free and open access to biodiversity data| Yes|Yes|
