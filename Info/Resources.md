@@ -16,8 +16,10 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Library|Library Carpentry| http://data-lessons.github.io/library-data-intro/01-introduction/| A list of lessons for librarians to upskill their tech knowledge. Great community| Yes|Yes|
 |Open Data|DataONE|https://www.dataone.org/previous-webinars/2017| Webinars and information about Open Data and good data practices in ecology|Yes|Yes|
 |Open Data|Kaggle|https://www.kaggle.com/datasets| Open data set repository|Yes|Yes|
-|Programming languages|Python Vs R Comparason|[https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html]|A details fairly unbiased comparason between the two|Yes|Yes|
-|Python|Python data Science Handbook|http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb| Covers IPython, Numpy,Pandas, MatplotLib,Machine learning in Python|Yes|Yes|
+|Programming languages|Python Vs R Comparason|[https://www.infoworld.com/article/3187550/data-science/
+python-vs-r-the-battle-for-data-scientist-mind-share.html]|A details fairly unbiased comparason between the two|Yes|Yes|
+|Python|Python data Science Handbook|http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/
+blob/master/notebooks/Index.ipynb| Covers IPython, Numpy,Pandas, MatplotLib,Machine learning in Python|Yes|Yes|
 |Repository of Tools| Open Science Project| http://openscience.org/software/| A collection of tools ordered by research area|Yes|Yes|
 |Statistics| Centre of Open Science- Statistics consulting| https://cos.io/our-services/training-services/| Offer free statistics consulting for researchers around open science |Yes|Yes|
 |Statistics| Cross Validated- Statistics Stack Exchange| https://stats.stackexchange.com/|A forum for statistical questions|Yes|Yes|
