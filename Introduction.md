@@ -66,6 +66,8 @@ When starting a Hacky Hour, there are a number of people in your institute that 
 |HDR coordinators|Most of your audience will be HDR and Early Career Researchers. Let these people know about your hacky hours, they can refer students to you and advertise.|
 |IP or Copyright specialist|For when you are discussing the software or scripts that your researchers are writing, you can refer them to your IP/Copyright expert to get the correct licences|
 |Statistics team|Bribe your statisticians with everything you have. You'll need them, everyone struggles with stats.|
+|Local Meetup/Community groups|Useful for networking, general help. Search for tech meetups in your area like Django girls, Girls in Tech, Hacker spaces etc|
+|Local Software Carpentry instructors|Many people are going to come look for Python and R training. If you aren't holding it, check out who in the local neighbourhood that is. Some state libraries do programming classes too. Offer to help out their graduates in return|
 
 
 
