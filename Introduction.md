@@ -21,7 +21,7 @@ You can use the following avenues to advertise
  - To your HPC users
  - Attend research groups morning teas
 
-You can see your research areas to target here: [Areas of Research to target](Info/Demographics.md)
+You can see your research areas to target here: [Areas of Research to target](Demographics.md)
 
 ## During your Hacky Hour
 
@@ -69,10 +69,10 @@ When starting a Hacky Hour, there are a number of people in your institute that 
 |Local Meetup/Community groups|Useful for networking, general help. Search for tech meetups in your area like Django girls, Girls in Tech, Hacker spaces etc|
 |Local Software Carpentry instructors|Many people are going to come look for Python and R training. If you aren't holding it, check out who in the local neighbourhood that is. Some state libraries do programming classes too. Offer to help out their graduates in return|
 
-Please also feel free to use the list of [Resources Available](Info/Resources.md)
+Please also feel free to use the list of [Resources Available](Resources.md)
 
 ## Further information
 
-- [Resources Available](Info/Resources.md)
-- [Areas of Research to target](Info/Demographics.md)
-- [Lessons Learned](Info/LessonsLearned.md)
+- [Resources Available](Resources.md)
+- [Areas of Research to target](Demographics.md)
+- [Lessons Learned](LessonsLearned.md)
