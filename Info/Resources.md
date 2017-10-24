@@ -16,6 +16,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Image analysis| Zooniverse| https://www.zooniverse.org/| Crowdsourcing research by uploading images with simple questions for the public to answer- Open source or hosted with permission|Yes|Yes|
 |Library|Library Carpentry| http://data-lessons.github.io/library-data-intro/01-introduction/| A list of lessons for librarians to upskill their tech knowledge. Great community| Yes|Yes|
 |Open Source Textbooks| OpenStax Textbooks|https://openstax.org/subjects |A repository of open source Math, Statistics, Humanities,Science textbooks |Yes|Yes|
+|Open Research| Open Science Open Data Open Source, 21st c research skills for life skills |https://pfern.github.io/OSODOS/gitbook/ | A open textbook regarding good life skills around open research|Yes|Yes|
 |Programming languages|Python Vs R Comparason|[https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html]|A details fairly unbiased comparason between the two|Yes|Yes|
 |Publishing code|The Journal of Open Source Software| http://joss.theoj.org/about| The Journal of Open Source Software (JOSS) is a developer friendly journal for research software packages- academic Journal|Yes|Yes|
 |Python|Python data Science Handbook|http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb| Covers IPython, Numpy,Pandas, MatplotLib,Machine learning in Python|Yes|Yes|
@@ -28,9 +29,6 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Tech Talks| Monthly Tech Talks Meetup|https://www.meetup.com/en-AU/monthlytechtalk/about/ | Monthly vid conference on topics relevent to eResearch - focused on Australia Tech |Yes| Unsure - Slides available|
 |Text Mining|PLOS training|http://collections.plos.org/textmining|Tutorials on text mining|Yes|Yes|
 |Virtual Labs| Necar Virtual Labs| https://nectar.org.au/labs-and-tools/ |A collection of NCRIS/NECTAR virtual labs available for AU researchers |Yes|Unsure|
-
-
-
 
 
 On top of these resources, check out:
