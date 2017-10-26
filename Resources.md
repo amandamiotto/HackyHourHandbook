@@ -32,6 +32,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 
 
 On top of these resources, check out:
-- the many (and growing) Stack Exchange sites (https://stackexchange.com/)
-- Mozilla Science Group lessons (https://github.com/mozillascience/studyGroupLessons)
-- Software Carpentry training modules (https://software-carpentry.org/lessons/)
+- the many (and growing) [Stack Exchange sites](https://stackexchange.com/)
+- [Mozilla Science Group lessons](https://github.com/mozillascience/studyGroupLessons)
+- [Software Carpentry training modules](https://software-carpentry.org/lessons/)
+- [MIT free online classes](https://ocw.mit.edu/courses/audio-video-courses/)
