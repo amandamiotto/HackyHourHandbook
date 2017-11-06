@@ -33,6 +33,12 @@ job running 3 4814333[].pbsserver
 
 You can use that to loop 1-30 or 1-300 and span up to 300 at once as they become available. Each node can talk to $HOME or $SCRATCH. Do note that all jobs will run serially on the same node.
 
+## (Quick and Dirty) Looping with HPC across nodes
+
+You should be doing proper neat parallel code. But if you've decided you need a dirty hack, you can use these two scripts to run up a number of pbs jobs- each with its own node, running the same script (but perhaps different parameters).
+
+Looping script: [parser.test.sh](HackyHourHandbook/ExampleCode/HPCLooping/parser.test.sh)
+Example PBS script: [test.pbs](HackyHourHandbook/ExampleCode/HPCLooping/test.pbs)
 
 ## Writing Parallel code
 Long Term- Run segments of code parallel via OpenMP with c++
