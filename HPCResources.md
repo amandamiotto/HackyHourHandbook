@@ -1,4 +1,4 @@
-## Looping with HPC inside Node
+## Looping with HPC inside Node using PBSpro
 
 So it looks like inside a pbs script you can run a loop :
 ```
@@ -37,9 +37,12 @@ You can use that to loop 1-30 or 1-300 and span up to 300 at once as they become
 
 You should be doing proper neat parallel code. But if you've decided you need a dirty hack, you can use these two scripts to run up a number of pbs jobs- each with its own node, running the same script (but perhaps different parameters).
 
+You can change the numbers it loops through from 1 - 5 to anything in Parser.test.sh. 
+
 Looping script: [parser.test.sh](ExampleCode/HPCLooping/parser.test.sh)
 
 Example PBS script: [test.pbs](ExampleCode/HPCLooping/test.pbs)
+
 
 ## Writing Parallel code
 Long Term- Run segments of code parallel via OpenMP with c++
