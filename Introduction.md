@@ -69,10 +69,11 @@ When starting a Hacky Hour, there are a number of people in your institute that 
 |Local Meetup/Community groups|Useful for networking, general help. Search for tech meetups in your area like Django girls, Girls in Tech, Hacker spaces etc|
 |Local Software Carpentry instructors|Many people are going to come look for Python and R training. If you aren't holding it, check out who in the local neighbourhood that is. Some state libraries do programming classes too. Offer to help out their graduates in return|
 
-Please also feel free to use the list of [Resources Available](Resources.md)
+Please also feel free to use the list of [Resources Available](Resources.md) or [HPC Resources Available](HPCResources.md)
 
 ## Further information
 
 - [Resources Available](Resources.md)
+- [HPC Resources Available](HPCResources.md)
 - [Areas of Research to target](Demographics.md)
 - [Lessons Learned](LessonsLearned.md)
