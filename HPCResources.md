@@ -1,4 +1,4 @@
-## Looping with HPC
+## Looping with HPC inside Node
 
 So it looks like inside a pbs script you can run a loop :
 ```
