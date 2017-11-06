@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#Give the job a name ... in the past had to start alphabetical and be < 13 chars
+#PBS -N testscript
+#Must have a valid account string ... a group that you belong to ... use groups command
+#Walltime is critical. If you leave it out you get it set to one hour
+#                HH:MM:SS
+#PBS -l walltime=02:00:00
+#YOU MUST include a valid resource specification .. defaults are no longer understood
+#PBS -l nodes=1:ppn=1,mem=2g
+
+echo 'job running' $INPUT >> $HOME/output.txt
