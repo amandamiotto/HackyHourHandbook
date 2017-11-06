@@ -13,7 +13,7 @@ Section: 9.4.3 File Staging for Job Arrays
 
 So for example 
 
-`[scratch]$ more test.pbs 
+```[scratch]$ more test.pbs 
 #!/bin/bash
 #
 #PBS -N simp
@@ -28,7 +28,7 @@ Returns:
 job running 1 4814333[].pbsserver
 job running 2 4814333[].pbsserver
 job running 3 4814333[].pbsserver
-`
+```
 
 
 You can use that to loop 1-30 or 1-300 and span up to 300 nodes at once as they become available. Each node can talk to $HOME or $SCRATCH
