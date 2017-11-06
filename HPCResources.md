@@ -31,7 +31,7 @@ job running 3 4814333[].pbsserver
 ```
 
 
-You can use that to loop 1-30 or 1-300 and span up to 300 nodes at once as they become available. Each node can talk to $HOME or $SCRATCH
+You can use that to loop 1-30 or 1-300 and span up to 300 at once as they become available. Each node can talk to $HOME or $SCRATCH. Do note that all jobs will run serially on the same node.
 
 
 ## Writing Parallel code
