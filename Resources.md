@@ -21,6 +21,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Programming languages|Python Vs R Comparason|[https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html]|A details fairly unbiased comparason between the two|Yes|Yes|
 |Publishing code|The Journal of Open Source Software| http://joss.theoj.org/about| The Journal of Open Source Software (JOSS) is a developer friendly journal for research software packages- academic Journal|Yes|Yes|
 |Python|Python data Science Handbook|http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb| Covers IPython, Numpy,Pandas, MatplotLib,Machine learning in Python|Yes|Yes|
+|Python|Python Virtual Environment |http://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/| Uni Of Auckland put together a tutorial on working with python Virtual Environments |Yes|Yes|
 |Repository of Tools| Open Science Project| http://openscience.org/software/| A collection of tools ordered by research area|Yes|Yes|
 |Statistics| Centre of Open Science- Statistics consulting| https://cos.io/our-services/training-services/| Offer free statistics consulting for researchers around open science |Yes|Yes|
 |Statistics| Cross Validated- Statistics Stack Exchange| https://stats.stackexchange.com/|A forum for statistical questions|Yes|Yes|
