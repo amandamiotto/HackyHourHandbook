@@ -52,3 +52,9 @@ Pawsey HPC do a great tutorial of this here : https://support.pawsey.org.au/docu
 Basically segments of your code are parked with a pragma segment and that segment is looped and treated as parallel, fired off to numerous nodes. 
 
 Doing some googling on OpenMP with c++ should give you a bucketful of tutorials as well.
+
+
+|Topic| Name | URL|  Description |Free for AU/NZ| Free for All|
+|--------------|----------------------|-----------------------------|----------------------------------------|------|-----|
+|HPC| NCI Slides| http://nci.org.au/user-support/training/| Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes|
+|HPC| Pawsey training material| https://support.pawsey.org.au/documentation/display/US/Training+Material| Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes|
