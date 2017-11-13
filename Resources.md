@@ -39,3 +39,4 @@ On top of these resources, check out:
 - [Mozilla Science Group lessons](https://github.com/mozillascience/studyGroupLessons)
 - [Software Carpentry training modules](https://software-carpentry.org/lessons/)
 - [MIT free online classes](https://ocw.mit.edu/courses/audio-video-courses/)
+- A collection organized by function of [Digitial Research Tools (DiRT)](http://dirtdirectory.org/)
