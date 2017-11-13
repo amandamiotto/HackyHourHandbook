@@ -33,6 +33,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Text Mining|PLOS training|http://collections.plos.org/textmining|Tutorials on text mining|Yes|Yes|
 |Virtual Labs| Necar Virtual Labs| https://nectar.org.au/labs-and-tools/ |A collection of NCRIS/NECTAR virtual labs available for AU researchers |Yes|Unsure|
 
+### Useful generic things
 
 On top of these resources, check out:
 - the many (and growing) [Stack Exchange sites](https://stackexchange.com/)
@@ -40,3 +41,11 @@ On top of these resources, check out:
 - [Software Carpentry training modules](https://software-carpentry.org/lessons/)
 - [MIT free online classes](https://ocw.mit.edu/courses/audio-video-courses/)
 - A collection organized by function of [Digitial Research Tools (DiRT)](http://dirtdirectory.org/)
+
+### Github's Awesome tag
+
+Github also have lists of resources via their 'Awesome' tag. They are usually lists of curated resources of a specific topic that people have recommended. For example, https://github.com/edobashira/speech-language-processing is a list of Speech Language Processing resources.
+
+Here is a list of 'Awesome' lists
+https://github.com/sindresorhus/awesome/blob/master/readme.md
+
