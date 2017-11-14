@@ -41,6 +41,7 @@ On top of these resources, check out:
 - [Software Carpentry training modules](https://software-carpentry.org/lessons/)
 - [MIT free online classes](https://ocw.mit.edu/courses/audio-video-courses/)
 - A collection organized by function of [Digitial Research Tools (DiRT)](http://dirtdirectory.org/)
+- [Flight rules for Git](https://github.com/k88hudson/git-flight-rules) or *"I broke git somehow and have no idea what happened"*
 
 ### Github's Awesome tag
 
