@@ -18,7 +18,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Library|Library Carpentry| http://data-lessons.github.io/library-data-intro/01-introduction/| A list of lessons for librarians to upskill their tech knowledge. Great community| Yes|Yes|
 |Open Source Textbooks| OpenStax Textbooks|https://openstax.org/subjects |A repository of open source Math, Statistics, Humanities,Science textbooks |Yes|Yes|
 |Open Research| Open Science Open Data Open Source, 21st c research skills for life skills |https://pfern.github.io/OSODOS/gitbook/ | A open textbook regarding good life skills around open research|Yes|Yes|
-|Programming languages|Python Vs R Comparason|[https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html]|A details fairly unbiased comparason between the two|Yes|Yes|
+|Programming languages|Python Vs R Comparason|<https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html>|A details fairly unbiased comparason between the two|Yes|Yes|
 |Publishing code|The Journal of Open Source Software| http://joss.theoj.org/about| The Journal of Open Source Software (JOSS) is a developer friendly journal for research software packages- academic Journal|Yes|Yes|
 |Python|Python data Science Handbook|http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb| Covers IPython, Numpy,Pandas, MatplotLib,Machine learning in Python|Yes|Yes|
 |Python| Google Jupyter notebooks|https://colab.research.google.com| Free use of jupyter/ipython notebooks, need to apply|Yes|Yes|
