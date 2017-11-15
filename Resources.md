@@ -8,7 +8,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 
 |Topic| Name | URL|  Description |Free for AU/NZ| Free for All|
 |--------------|----------------------|-----------------------------|----------------------------------------|------|-----|
-|C++| Google for Edu C++ classes| https://developers.google.com/edu/c++/getting-started| Freely available introduction on how to program in c++ |Yes|Yes|
+|C++| Google for Edu C++ classes| <https://developers.google.com/edu/c++/getting-started>| Freely available introduction on how to program in c++ |Yes|Yes|
 |Coding|Code Carabiners Essential Protection for Safe Programming| http://radar.oreilly.com/2014/01/code-carabiners-essential-protection-tools-for-safe-programming.html?cmp=tw-prog-na-article-pr_code_carabiners| An article on Assertions, Regression Testing and Version Control, for those who have learnt coding outside an IT degree|Yes|Yes|
 |Collaborative tools| Atom Text Editor| https://atom.io/| A collaborative text editor, customizable|Yes|Yes
 |Data Science Learning|Becoming a Data Scientist Curriculum|http://nirvacana.com/thoughts/becoming-a-data-scientist/| A visual roadmap for skills to build in data science|Yes|Yes|
