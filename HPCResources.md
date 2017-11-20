@@ -54,6 +54,21 @@ Basically segments of your code are parked with a pragma segment and that segmen
 Doing some googling on OpenMP with c++ should give you a bucketful of tutorials as well.
 
 
+## Moving Matlab scripts from GUI to HPC
+
+When moving Matlab scripts to running via command line (generally for HPC), it will expect the functions to be in a separate file from the commands calling it. 
+For a fast workaround, instead of using
+
+matlab < script.m
+
+You can use
+
+matlab -r 'run("script")'
+
+which will run matlab then call the script.m file and run the code from there.
+From reading in Stack Exchange, apparently Matlab 2017 doesn't do this anymore but from testing it was the same case.
+
+
 |Topic| Name |  Description |Free for AU/NZ| Free for All| URL|
 |--------------|----------------------|-----------------------------|----------------------------------------|------|-----|
 |HPC| NCI Slides|  Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes| <http://nci.org.au/user-support/training/>|
