@@ -23,6 +23,8 @@ You can use the following avenues to advertise
 
 You can see your research areas to target here: [Areas of Research to target](Demographics.md)
 
+Get your name on the Mozilla Study group page too (Also an excellent resource) <https://science.mozilla.org/programs/studygroups>
+
 ## During your Hacky Hour
 
 You find that you will get three types of researchers. 
