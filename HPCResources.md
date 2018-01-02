@@ -57,6 +57,5 @@ Doing some googling on OpenMP with c++ should give you a bucketful of tutorials 
 |Topic| Name |  Description |Free for AU/NZ| Free for All| URL|
 |--------------|----------------------|-----------------------------|----------------------------------------|------|-----|
 |HPC| NCI Slides|  Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes| <http://nci.org.au/user-support/training/>|
-|HPC| Pawsey training material| Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes|
-<https://support.pawsey.org.au/documentation/display/US/Training+Material>
+|HPC| Pawsey training material| Slides around HPC training with Parallel/MPI/OpenMP | Yes| Yes|<https://support.pawsey.org.au/documentation/display/US/Training+Material>
 |HPC|HPC in a day lessons| Lessons around HPC and how to use |Yes| |Yes| <https://psteinb.github.io/hpc-in-a-day/>|
