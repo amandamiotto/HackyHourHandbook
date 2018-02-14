@@ -15,7 +15,7 @@ Please do add other areas to target.
 
 Career path wise, we found most people who attended were Higher Degree Researchers and Early Career Researchers. The occasional Professor will stop by but not often. We also get Librarians and other general staff stopping in from time to time, either to catch up or share the work they are doing. 
 
-Dr Nick Hamilton at University of Queensland has shared his poster of demographics found at the UQ which you can [find here](Media/nhamilton_eResearch_2017.pdf). He has highlighted many of the problems faced at Hacky Hour are R related (24), Python related(13) and HPC/Cloud related (13) which closely reflects our findings. He also found many of the attendees were female at 65.2% however the helpers were still male orientated. 
+Dr Nick Hamilton at University of Queensland has shared [his poster of demographics ](Media/nhamilton_eResearch_2017.pdf). He has highlighted many of the problems faced at Hacky Hour are R related (24), Python related(13) and HPC/Cloud related (13) which closely reflects our findings. He also found many of the attendees were female at 65.2% however the helpers were still male orientated. 
 
 Another finding which at was also reflected at other universities was that the bioscience field was highly represented in attendees.
 
