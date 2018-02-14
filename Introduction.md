@@ -12,6 +12,8 @@ A twitter account is a great way of keeping people informed. You can also celebr
 
 Your audience will most likely be Higher Degree Researcher and Early Career Researchers. They will have the time and the inclination to learn. 
 
+You are welcome to customize the template from University of Queensland [Hacky Hour logo found here.](Media/hack_hour_drawing.svg)
+
 #### Where to advertise
 You can use the following avenues to advertise
  - Library
