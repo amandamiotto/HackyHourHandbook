@@ -4,6 +4,8 @@
 
 An informal regularly scheduled catchup where your researchers can come and discuss IT or Tech ideas for accelerating their research. Often researchers will come for help with common data science programs like R or Python or for info about data Storage or HPC
 
+Hacky Hours can be paired with (Software Carpentry)[https://software-carpentry.org/lessons/] classes (or similar) and Research Bazaar conferences. See the (Carpentries Cookbook)[https://cookbook.carpentries.org/] for more information on starting this.
+
 ## Starting a Hacky Hour
 
 Pick a public interactive space or cafe. Also somewhere with good wifi. Keep the same place and schedule every week, so people can find you. Using calendar invites can be another great way of keeping people informed. A big sign or flag is essencial so that people can identify you at the venue.
