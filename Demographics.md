@@ -22,7 +22,7 @@ Another finding which at was also reflected at other universities was that the b
 As we generally get a similar crowd to those doing Software Carpentry, you may find this article interesting on the demographics and languages people learnt from Software Carpentry https://zenodo.org/record/1039944#.WgIpSN9fhhF 
 Otherwise, there have been studies such as https://zenodo.org/record/14809#.WevWzZ8xDCJ that can highlight areas to target.
 
-###Collecting Demographics
+### Collecting Demographics
 
 Here is a suggested list of demographics to collect each session:
  - Date
