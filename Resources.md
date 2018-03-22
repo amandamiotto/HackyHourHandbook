@@ -33,6 +33,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Coding|Code Carabiners Essential Protection for Safe Programming| An article on Assertions, Regression Testing and Version Control, for those who have learnt coding outside an IT degree|Yes|Yes| <http://radar.oreilly.com/2014/01/code-carabiners-essential-protection-tools-for-safe-programming.html?cmp=tw-prog-na-article-pr_code_carabiners>
 |Collaborative tools| Atom Text Editor| A collaborative text editor, customizable|Yes|Yes| <https://atom.io/>
 |Data Science Learning|Becoming a Data Scientist Curriculum| A visual roadmap for skills to build in data science|Yes|Yes|<http://nirvacana.com/thoughts/becoming-a-data-scientist/>
+|Git| Git Flow |  A step by step walkthrough of Git |Yes| Yes| <https://smessina.com/gitflow#/> |
 |Ecology|Global Biodiversity Information Facility|Free and open access to biodiversity data| Yes|Yes|< https://www.gbif.org/>
 |HPC| HPC Resources| See our specific page for HPC | Yes| Yes| [HPC Resources Available](HPCResources.md)
 |Image analysis| Zooniverse| Crowdsourcing research by uploading images with simple questions for the public to answer- Open source or hosted with permission|Yes|Yes|<https://www.zooniverse.org/>
