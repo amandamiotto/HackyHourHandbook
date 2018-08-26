@@ -83,3 +83,4 @@ Please also feel free to use the list of [Resources Available](Resources.md) or 
 - [HPC Resources Available](HPCResources.md)
 - [Areas of Research to target](Demographics.md)
 - [Lessons Learned](LessonsLearned.md)
+- [Meet other hacky hour coordinators](https://groups.google.com/forum/#!forum/hacky-hour--coordinators)
