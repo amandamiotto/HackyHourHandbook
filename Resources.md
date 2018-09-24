@@ -47,7 +47,6 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Python|Python Virtual Environment | Uni Of Auckland put together a tutorial on working with python Virtual Environments |Yes|Yes|<http://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/>
 |R| R data structures |  R data structures |Yes| Yes| <http://rex-analytics.com/r-for-excel-users/>|
 |R| R error messages |  R decoding error messages |Yes| Yes| <http://rex-analytics.com/decoding-error-messages-r/>|
-|Topic| Name |  Description |Free for AU/NZ| Free for All| URL|
 |Repository of Tools| Open Science Project| A collection of tools ordered by research area|Yes|Yes| <http://openscience.org/software/>
 |Statistics| Centre of Open Science- Statistics consulting| Offer free statistics consulting for researchers around open science |Yes|Yes| <https://cos.io/our-services/training-services/>
 |Statistics| Cross Validated- Statistics Stack Exchange|A forum for statistical questions|Yes|Yes|<https://stats.stackexchange.com/>
