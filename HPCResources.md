@@ -1,3 +1,8 @@
+## HPC Carpentry lessons
+
+These are a great set of lessons to hand to people if they can't make a HPC tutorial. I have a modified version in my repo but this is where ours originated from : https://github.com/hpc-carpentry/hpc-intro
+
+
 ## Looping with HPC inside Node using PBSpro
 
 So it looks like inside a pbs script you can run a loop :
