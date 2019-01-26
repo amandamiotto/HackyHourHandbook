@@ -37,7 +37,7 @@ Please only suggest resources that are free or free for Australian/NZ researcher
 |Ecology|Global Biodiversity Information Facility|Free and open access to biodiversity data| Yes|Yes|< https://www.gbif.org/>
 |HPC| HPC Resources| See our specific page for HPC | Yes| Yes| [HPC Resources Available](HPCResources.md)
 |Image analysis| Zooniverse| Crowdsourcing research by uploading images with simple questions for the public to answer- Open source or hosted with permission|Yes|Yes|<https://www.zooniverse.org/>
-|Library|Library Carpentry| A list of lessons for librarians to upskill their tech knowledge. Great community| Yes|Yes| <http://data-lessons.github.io/library-data-intro/01-introduction/>
+|Library|Library Carpentry| A list of lessons for librarians to upskill their tech knowledge. Great community| Yes|Yes| <https://librarycarpentry.org/lessons/>
 |Open Source Textbooks| OpenStax Textbooks|A repository of open source Math, Statistics, Humanities,Science textbooks |Yes|Yes|<https://openstax.org/subjects> 
 |Open Research| Open Science Open Data Open Source, 21st c research skills for life skills | A open textbook regarding good life skills around open research|Yes|Yes|<https://pfern.github.io/OSODOS/gitbook> 
 |Programming languages|Python Vs R Comparason|A details fairly unbiased comparason between the two|Yes|Yes|<https://www.infoworld.com/article/3187550/data-science/python-vs-r-the-battle-for-data-scientist-mind-share.html>
